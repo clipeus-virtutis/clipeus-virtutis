@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @clipeus-virtutis
-- 👀 I’m interested in becoming a software developer
-- 🌱 I’m currently learning JavaScript!
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I'm currently a software developer working mainly with TypeScript and React
+- 🌱 I’m currently learning TypeScript and working on a personal blackjack project
+- 📫 Feel free to stop by or send me a message!
 
 <!---
 clipeus-virtutis/clipeus-virtutis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
